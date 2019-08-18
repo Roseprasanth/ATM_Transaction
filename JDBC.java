@@ -34,7 +34,7 @@ public class JDBC {
 			
 			if(m_Password.contentEquals(Pass))
 			{
-				return true;
+				return true;// return
 			}
 			else    
 			{
